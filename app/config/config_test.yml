@@ -12,3 +12,8 @@ web_profiler:
 
 swiftmailer:
     disable_delivery: true
+    
+mink:
+    base_url:   http://localhost/expense/web/app_dev.php
+    sahi:       ~
+    zombie:     ~
